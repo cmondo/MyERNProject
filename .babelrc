@@ -1,0 +1,10 @@
+{
+    "presets": [
+        "@babel/preset-env",
+        "@babel/preset-react"
+    ],
+    "plugins": [
+        "@babel/plugin-proposal-class-properties",  //To resolve classProperties in Babel,
+        "@babel/plugin-transform-runtime"           //To resolve async/await issue
+    ]
+}
