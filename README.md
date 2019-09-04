@@ -1,2 +1,2 @@
-# NodeCRUDService
-This is a CRUD service in NodeJS +Express +React + ORM
+# MyERN Service
+This is a MyERN project and try to explain the implementation of Mysql + Express + React + NodeJS to provide a simple UI and API based on NodeJs.
