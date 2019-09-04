@@ -12,3 +12,7 @@ This is a MyERN project and try to explain the implementation of Mysql + Express
 # Installation
 
     npm install
+
+# Run {development}
+
+    npm run dev
